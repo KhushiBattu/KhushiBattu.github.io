@@ -120,15 +120,11 @@ Streamlit · Git · GitHub · VS Code
 Core CS
 DSA · OOP · DBMS · File Handling
 
-GITHUB ACTIVITY
+## GITHUB ACTIVITY
 
-<div align="center">
+My work, experiments, and open-source contributions are documented through my GitHub repositories.
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhushiBattu&show_icons=true&hide_border=true&theme=transparent&title_color=a78bfa&icon_color=67e8f9&text_color=cbd5e1&rank_icon=github" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiBattu&layout=compact&hide_border=true&theme=transparent&title_color=a78bfa&text_color=cbd5e1&langs_count=6" height="165">
-
-</div>
+[Explore my GitHub →](https://github.com/KhushiBattu)
 
 ACHIEVEMENTS
 
