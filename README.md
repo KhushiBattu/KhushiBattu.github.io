@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-banner.png" width="100%" alt="Khushi Battu">
+<img src="./github-banner.png" width="100%" alt="Khushi Battu">
 
 <br><br>
 
